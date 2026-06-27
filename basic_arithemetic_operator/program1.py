@@ -1,0 +1,13 @@
+friends=5
+friends+=1
+print(friends)
+friends-=2
+print(friends)
+friends*=2
+print(friends)
+friends/=2
+print(friends)
+friends=friends**2
+print(friends)
+remainder=friends%6
+print(remainder)   
