@@ -1,0 +1,4 @@
+collection= single "variable" used to store multiple values
+List = [] ordered and can be changed, duplicates can be there
+Set = {} unordered and immutable, but add/remove of elements can be done, no duplicates are allowed
+Tuple = () ordered and cant be modified, duplicate elements can exist, indexing is faster 
