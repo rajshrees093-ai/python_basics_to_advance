@@ -29,3 +29,12 @@ if student in grades:
     print(f"{student}'s grade is {grades[student]}")
 else:
     print(f"{student} not found")
+
+
+email="xyz@email.com"
+
+if "@" in email and "." in email:
+    print("valid email")
+else:
+    print("invalid email")
+    
