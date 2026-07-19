@@ -1,3 +1,8 @@
+module = a file containing code you want to include in ypur program
+        use 'import' to include a module (built-in or your own)
+        useful to breakup a large program to reusable separate files
+
+
 __future__          _statistics         ensurepip           random
 __hello__           _string             enum                re
 __phello__          _strptime           errno               reprlib
