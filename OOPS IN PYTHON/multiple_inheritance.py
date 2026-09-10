@@ -28,3 +28,8 @@ class Hawk(Predator):
 class Fish(Prey, Predator):
     pass
 
+rabbit=Rabbit()
+hawk=Hawk()
+fish=Fish()
+
+fish.sleep()
